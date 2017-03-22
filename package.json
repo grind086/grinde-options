@@ -1,0 +1,17 @@
+{
+  "name": "grinde-options",
+  "version": "1.0.0",
+  "description": "A very simple options collector",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Rob Grindeland",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^19.0.2"
+  },
+  "jest": {
+    "testMatch": ["<rootDir>/test.js"]
+  }
+}
