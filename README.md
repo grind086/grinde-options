@@ -1,4 +1,4 @@
-# grinde-pathfinding
+# grinde-options
 
 
 ## Installation
